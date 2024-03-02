@@ -51,7 +51,7 @@ Launch Load balancer in a separate terminal
 npm run start-load-balancer
 ```
 
-Finally; lauch the script which calls the load balancer every 1.5 secs
+Finally; launch the script which sends requests to the load balancer every 1.5 secs
 
 ```
 npm run requests
